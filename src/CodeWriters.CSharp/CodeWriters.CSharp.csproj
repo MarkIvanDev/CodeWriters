@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <LangVersion>7.3</LangVersion>
+    <PackageId>CodeWriters.CSharp</PackageId>
+    <PackageVersion>0.1.0-prerelease</PackageVersion>
+    <Description>Fluently create C# code</Description>
+    <Authors>markivan.basto</Authors>
+    <Copyright>(c) 2022 Mark Ivan Basto</Copyright>
+    <PackageProjectUrl>https://github.com/MarkIvanDev/CodeWriters</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/MarkIvanDev/CodeWriters.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>c# code class method property fluent builder</PackageTags>
+  </PropertyGroup>
+
+</Project>
